@@ -2,8 +2,12 @@
 
 **NOTE:** Appliances are built on top of Docker but for the moment they do not support Docker in swarm mode.
 
+## Note for Podman
 
-## Setup
+Podman compose dont have the same syntax support as Docker compose. 
+So a specific Podman tutorial is proposed [here](./podman.md)
+
+## Docker Setup
 
 For full documentation on how to setup an Assemblyline appliance see the documentation page.
 https://cybercentrecanada.github.io/assemblyline4_docs/
